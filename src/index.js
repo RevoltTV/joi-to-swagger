@@ -1,15 +1,15 @@
 import {
     getBodyParameter,
     getParameterObject
-} from './parameters';
+} from './parameters'
 
-import getSchemaObject from './schema';
+import getSchemaObject from './schema'
 
-import parse from './parser';
+import parse from './parser'
 
 export default {
-    getBodyParameter,
-    getParameterObject,
-    getSchemaObject,
-    parse
-};
+  getBodyParameter,
+  getParameterObject,
+  getSchemaObject,
+  parse
+}
